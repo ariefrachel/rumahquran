@@ -16,8 +16,16 @@
   }
 }
 
+#kontak {
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
 
-
+#button {
+  width: 100%;
+  height: 50px;
+  margin-top: 2em;
 }
 
 .field label {
